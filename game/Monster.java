@@ -2,8 +2,6 @@ package game;
 
 /**
  * Class for monsters who don't move
- * @author joshuayang
- *
  */
 public class Monster implements NPC {
 
