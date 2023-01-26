@@ -2,9 +2,6 @@ package game;
 
 /**
  * The class of command "buff"
- * 
- * @author joshuayang
- *
  */
 public class Buff implements Command {
 
