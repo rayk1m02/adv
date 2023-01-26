@@ -2,8 +2,6 @@ package game;
 
 /**
  * Class to quit the game
- * @author joshuayang raykim
- *
  */
 public class quit implements Command {
 
