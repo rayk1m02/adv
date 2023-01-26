@@ -2,8 +2,6 @@ package game;
 
 /**
  * Class to set player an enemy
- * @author joshuayang
- *
  */
 public class Fight implements Command {
 
