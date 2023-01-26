@@ -2,8 +2,6 @@ package game;
 
 /**
  * Class to talk with an NPC
- * @author joshuayang
- *
  */
 public class Talk implements Command {
 
