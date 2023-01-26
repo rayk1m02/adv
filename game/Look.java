@@ -4,9 +4,6 @@ import java.util.HashMap;
 
 /**
  * Class for checking items in this room
- * 
- * @author joshuayang
- *
  */
 public class Look implements Command {
 
