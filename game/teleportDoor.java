@@ -2,8 +2,6 @@ package game;
 
 /**
  * Class for doors that teleport player to another room
- * @author joshuayang
- *
  */
 public class teleportDoor implements Door{
 
