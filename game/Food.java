@@ -2,9 +2,6 @@ package game;
 
 /**
  * Class for item food
- * 
- * @author joshuayang
- *
  */
 public class Food implements Item {
 
