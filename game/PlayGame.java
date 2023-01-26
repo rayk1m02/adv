@@ -5,10 +5,7 @@ package game;
  * 
  * Program to control the playing of this game.
  *
- * @author Thomas VanDrunen
- * Wheaton College, CS 245, Spring 2007
- * Lab 5
- * Feb 8, 2007
+ * @author Thomas VanDrunen, Wheaton College
  */
 
 public class PlayGame {
