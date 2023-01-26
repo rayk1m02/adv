@@ -2,8 +2,6 @@ package game;
 
 /**
  * Class for door that connects two adjacent rooms
- * @author joshuayang
- *
  */
 public class keyDoor implements Door{
 
