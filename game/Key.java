@@ -2,8 +2,6 @@ package game;
 
 /**
  * Class for key to unlock specific door
- * @author joshuayang
- *
  */
 public class Key implements Item {
 
