@@ -2,9 +2,6 @@ package game;
 
 /**
  * The class for characters who are the npcs provide info
- * 
- * @author joshuayang
- *
  */
 public class Character implements NPC {
 
