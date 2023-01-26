@@ -1,11 +1,7 @@
 package game;
 
-
 /**
  * Class for choose next direction
- * 
- * @author joshuayang
- *
  */
 public class Directions implements Command {
 
