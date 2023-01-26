@@ -7,8 +7,6 @@ import java.util.HashMap;
  * 
  * Class to simulate the player. Contains important information about the
  * player, such as health, damage reduction, and inventory.
- *
- * @author James Coleman Wheaton College, CSCI 245, Fall 2022 October 4, 2022
  */
 public class Player {
 
