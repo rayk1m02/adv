@@ -3,8 +3,6 @@ package game;
 
 /**
  * Class for pick items up
- * @author joshuayang raykim
- *
  */
 public class pickUp implements Command {
 
