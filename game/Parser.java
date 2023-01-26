@@ -2,23 +2,13 @@ package game;
 
 import java.util.HashMap;
 
+import java.util.Scanner;
+
 /**
  * Parser.java
- * 
  * Class to interpret the user's commands
- *
- * @author Thomas VanDrunen
- * Wheaton College, CS 245, Spring 2007
- * Lab 5
- * Feb 8, 2007
  */
 
-import java.util.Scanner;
-/**
- * Class to get player's input
- * @author joshuayang raykim
- *
- */
 public class Parser {
 
 	/**
