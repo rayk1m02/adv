@@ -2,8 +2,6 @@ package game;
 
 /**
  * Class for weapon item to change the damage of player
- * @author joshuayang
- *
  */
 public class Weapon implements Item{
 
