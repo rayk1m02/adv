@@ -2,8 +2,6 @@ package game;
 
 /**
  * Class to remove items from inventory
- * @author joshuayang raykim
- *
  */
 public class Remove implements Command {
 
