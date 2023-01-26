@@ -7,8 +7,7 @@ import java.util.HashMap;
  * 
  * Class to model a room in the game.
  *
- * @author Thomas VanDrunen Wheaton College, CS 245, Spring 2007 Lab 5 Feb 8,
- *         2007
+ * @author Thomas VanDrunen Wheaton College
  */
 
 public class Room {
