@@ -2,8 +2,6 @@ package game;
 
 /**
  * Interface for different kinds of NPCs
- * @author joshuayang raykim
- *
  */
 public interface NPC {
 	
