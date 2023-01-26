@@ -2,8 +2,6 @@ package game;
 
 /**
  * Class to show a player's damage, defense, and health.
- * @author joshuayang raykim
- *
  */
 public class Status implements Command {
 
