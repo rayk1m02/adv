@@ -4,9 +4,6 @@ import java.util.HashMap;
 
 /**
  * Class for usage of item.
- * 
- * @author joshuayang
- *
  */
 public class UseItem implements Command {
 
