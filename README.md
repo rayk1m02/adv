@@ -8,7 +8,7 @@ Information about the game:
 
 The player is a Wheaton College CS student in Meyer Science Building late at night. The player is in a broken simulation where monsters, NPCs, and items exists.
 
-The objective of this game is to escape the simulation by using the Central Computer that is located in a locked room. The player will need to find a key and USB to access the room, then the computer. Be warned, the player can die in the game!
+The objective of this game is to escape the simulation by using the Central Computer that is located in a locked room. The player will need to find a key and a USB to access the room and plug into the computer, respectively. Be warned, the player can die in the game!
 
 In the building, there are professors who provide critical information as well as items to use. Some doors are free to access and others need to be unlocked with a key. As for monsters there exists roamers, monsters that move in between rooms, so you never know when you will encounter one! One of the monsters is a Mastadon who is very powerful and holds the USB. As a player, the user must learn the commands, fight monsters, and use items to move through the building and win the game by escaping. 
 
