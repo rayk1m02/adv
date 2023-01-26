@@ -8,8 +8,7 @@ import java.util.HashMap;
  * Class to model the game as a collection of rooms. The rooms are organized as
  * a graph, and the Room objects are nodes in the graph.
  *
- * @author Thomas VanDrunen Wheaton College, CS 245, Spring 2007 Lab 5 Feb 8,
- *         2007
+ * @author Thomas VanDrunen Wheaton College
  */
 
 public class Game {
