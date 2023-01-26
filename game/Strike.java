@@ -2,8 +2,6 @@ package game;
 
 /**
  * Class for striking the enemy
- * @author joshuayang
- *
  */
 public class Strike implements Command {
 
