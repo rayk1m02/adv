@@ -2,8 +2,6 @@ package game;
 
 /**
  * Class for item USB to win the game
- * @author joshuayang
- *
  */
 public class USB implements Item {
 
