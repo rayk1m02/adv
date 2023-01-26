@@ -3,8 +3,6 @@ package game;
 import java.util.HashMap;
 /**
  * Class to list all the available commands.
- * @author joshuayang
- *
  */
 public class Help implements Command {
 	
