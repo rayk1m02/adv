@@ -2,9 +2,6 @@ package game;
 
 /**
  * Class for item Computer which is like a scroll
- * 
- * @author joshuayang
- *
  */
 public class Computer implements Item {
 
