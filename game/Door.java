@@ -2,8 +2,6 @@ package game;
 
 /**
  * Interface for all kinds of doors
- * @author joshuayang
- *
  */
 public interface Door {
 	/**
