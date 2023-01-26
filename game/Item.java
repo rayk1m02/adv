@@ -2,8 +2,6 @@ package game;
 
 /**
  * Interface for all items.
- * @author joshuayang
- *
  */
 public interface Item {
 
