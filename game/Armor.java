@@ -2,9 +2,6 @@ package game;
 
 /**
  * Class for Item Armor.
- * 
- * @author joshuayang
- *
  */
 public class Armor implements Item {
 
