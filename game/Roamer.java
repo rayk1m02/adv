@@ -2,8 +2,6 @@ package game;
 
 /**
  * Class for roamers who are monsters moving around the world randomly
- * @author joshuayang
- *
  */
 public class Roamer implements NPC {
 
