@@ -2,9 +2,6 @@ package game;
 
 /**
  * Class for Escape command to flee from a fight
- * 
- * @author joshuayang
- *
  */
 public class Escape implements Command {
 
